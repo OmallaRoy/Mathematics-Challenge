@@ -2,7 +2,7 @@
 in the root directory run "php artisan serve" 
 ## starting the command line server
 open the project in any IDE like intellij iDE
-#**Introduction**<br>
+<br>#**Introduction**<br>
 The International Education Services is organizing a mathematics competition for primary school children all over the country. All pupils in registered primary schools are eligible to take part in the competition.
 
  #**System Overview**<br>
