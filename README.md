@@ -1,7 +1,7 @@
 ## starting the php server
 in the root directory run "php artisan serve" in an IDE terminal like VS code.
 ## starting the command line server
-open the project in any IDE like intellij iDE
+Open the project in any IDE like intellij iDE
 <br>**Introduction**<br>
 The International Education Services is organizing a mathematics competition for primary school children all over the country. All pupils in registered primary schools are eligible to take part in the competition.
 
