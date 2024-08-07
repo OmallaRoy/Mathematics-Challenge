@@ -2,10 +2,10 @@
 in the root directory run "php artisan serve" in an IDE terminal like VS code.
 ## starting the command line server
 open the project in any IDE like intellij iDE
-<br>#**Introduction**<br>
+<br>**Introduction**<br>
 The International Education Services is organizing a mathematics competition for primary school children all over the country. All pupils in registered primary schools are eligible to take part in the competition.
 
- #**System Overview**<br>
+ **System Overview**<br>
 **School and School representative registration**<br>
 **Schools**: Uploaded by an administrator with details including "NAME OF SCHOOL", "DISTRICT OF LOCATION OF SCHOOL", "SCHOOL REGISTRATION NUMBER", "EMAIL OF THE SCHOOL REPRESENTATIVE" and "SCHOOL REPRESENTATIVE NAME" through the "SCHOOL" side bar on the web interface.<br>
 
