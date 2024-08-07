@@ -1,5 +1,5 @@
 ## starting the php server
-in the root directory run "php artisan serve" 
+in the root directory run "php artisan serve" in an IDE terminal like VS code.
 ## starting the command line server
 open the project in any IDE like intellij iDE
 <br>#**Introduction**<br>
