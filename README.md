@@ -8,7 +8,7 @@ The International Education Services is organizing a mathematics competition for
  **System Overview**<br>
 **School and School representative registration**<br>
 **Schools**: Uploaded by an administrator with details including "NAME OF SCHOOL", "DISTRICT OF LOCATION OF SCHOOL", "SCHOOL REGISTRATION NUMBER", "EMAIL OF THE SCHOOL REPRESENTATIVE" and "SCHOOL REPRESENTATIVE NAME" through the "SCHOOL" side bar on the web interface.<br>
-C:\Users\5roy\Desktop\upload school.png
+
 **Validation**: Representatives are validated before being registered into the system via "VALIDATED" checkbox on the web interface.<br>
 **Questions and Answers**: Uploaded by a registered administrator from Excel documents (questions.xlsx and answers.xlsx) through the "QUESTANSWER" side bar .<br>
 **Uploading of challenges**:Here the administrator sets challenge parameters including; Title,Description,Starting Date,Closing Date,and Duration for each challenge in minutes.<br>
