@@ -8,6 +8,7 @@ The International Education Services is organizing a mathematics competition for
  **System Overview**<br>
 **School and School representative registration**<br>
 **Schools**: Uploaded by an administrator with details including "NAME OF SCHOOL", "DISTRICT OF LOCATION OF SCHOOL", "SCHOOL REGISTRATION NUMBER", "EMAIL OF THE SCHOOL REPRESENTATIVE" and "SCHOOL REPRESENTATIVE NAME" through the "SCHOOL" side bar on the web interface.<br>
+**This is how the web interface looks like**
 ![uploaded school page](https://github.com/user-attachments/assets/637ff757-c70c-4906-a2e4-aac882f8d590)
 
 ![upload school](https://github.com/user-attachments/assets/0bae5efb-6156-47d4-8f43-3a96fc67f4e4)
@@ -18,7 +19,7 @@ Random Selection: Each challenge consists of 10 questions randomly selected from
 **Participant/pupil Registration**<br>
 **Command Line Interface**: Participants register via CLI with the command:<br>
 "register username firstname lastname emailAddress date_of_birth(yy-mm-dd) school_registration_number image_file.png"<br>
-This is how the command line interface looks like.<br>
+**This is how the command line interface looks like**<br>
 ![commandline](https://github.com/user-attachments/assets/277118d5-d640-4f3e-8193-7ac5130e95dd)
 Challenge Viewing: Participants can view active challenges with the command:<br>
 "ViewChallenges"<br>
