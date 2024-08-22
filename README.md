@@ -18,7 +18,8 @@ Random Selection: Each challenge consists of 10 questions randomly selected from
 **Participant/pupil Registration**<br>
 **Command Line Interface**: Participants register via CLI with the command:<br>
 "register username firstname lastname emailAddress date_of_birth(yy-mm-dd) school_registration_number image_file.png"<br>
-This is how the command line interface looks lik
+This is how the command line interface looks like.<br>
+![commandline](https://github.com/user-attachments/assets/277118d5-d640-4f3e-8193-7ac5130e95dd)
 Challenge Viewing: Participants can view active challenges with the command:<br>
 "ViewChallenges"<br>
 Registration Validation: If the school registration number matches the one that was entered earlier on, the record is added and the school representative is notified via email to confirm the applicant.<br>
