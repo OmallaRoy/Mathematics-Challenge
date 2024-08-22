@@ -8,6 +8,7 @@ The International Education Services is organizing a mathematics competition for
  **System Overview**<br>
 **School and School representative registration**<br>
 **Schools**: Uploaded by an administrator with details including "NAME OF SCHOOL", "DISTRICT OF LOCATION OF SCHOOL", "SCHOOL REGISTRATION NUMBER", "EMAIL OF THE SCHOOL REPRESENTATIVE" and "SCHOOL REPRESENTATIVE NAME" through the "SCHOOL" side bar on the web interface.<br>
+![uploaded school page](https://github.com/user-attachments/assets/637ff757-c70c-4906-a2e4-aac882f8d590)
 
 ![upload school](https://github.com/user-attachments/assets/0bae5efb-6156-47d4-8f43-3a96fc67f4e4)
 **Validation**: Representatives are validated before being registered into the system via "VALIDATED" checkbox on the web interface.<br>
